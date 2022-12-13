@@ -1,0 +1,35 @@
+Enter number of demand times
+Enter demand time and its probability Enter number of lead times
+Enter lead time and its probabilty Enter capacity of storage , cycle size , number of cycles , the starting quantity, initial order ,and Days untill first order arrive
+
+
+Day: 1|InventoryBegin: 3|Demand-RN: 66|Demand: 2|InventoryEnd: 1|Shortage: 0|OrderQuantity: -|LeadRN: -|DaysTillOrderArrive: 2
+
+Day: 2|InventoryBegin: 1|Demand-RN: 36|Demand: 2|InventoryEnd: 0|Shortage: 1|OrderQuantity: -|LeadRN: -|DaysTillOrderArrive: 1
+
+Day: 3|InventoryBegin: 0|Demand-RN: 35|Demand: 2|InventoryEnd: 0|Shortage: 2|OrderQuantity: -|LeadRN: -|DaysTillOrderArrive: 0
+
+Day: 4|InventoryBegin: 8|Demand-RN: 29|Demand: 1|InventoryEnd: 7|Shortage: 0|OrderQuantity: -|LeadRN: -|DaysTillOrderArrive: -
+
+Day: 5|InventoryBegin: 7|Demand-RN: 16|Demand: 1|InventoryEnd: 6|Shortage: 0|OrderQuantity: 5|LeadRN: 8|DaysTillOrderArrive: 2
+
+Day: 6|InventoryBegin: 6|Demand-RN: 45|Demand: 2|InventoryEnd: 4|Shortage: 0|OrderQuantity: -|LeadRN: -|DaysTillOrderArrive: 1
+
+Day: 7|InventoryBegin: 4|Demand-RN: 38|Demand: 2|InventoryEnd: 2|Shortage: 0|OrderQuantity: -|LeadRN: -|DaysTillOrderArrive: 0
+
+Day: 8|InventoryBegin: 7|Demand-RN: 20|Demand: 1|InventoryEnd: 6|Shortage: 0|OrderQuantity: -|LeadRN: -|DaysTillOrderArrive: -
+
+Day: 9|InventoryBegin: 6|Demand-RN: 28|Demand: 1|InventoryEnd: 5|Shortage: 0|OrderQuantity: -|LeadRN: -|DaysTillOrderArrive: -
+
+Day: 10|InventoryBegin: 5|Demand-RN: 74|Demand: 3|InventoryEnd: 2|Shortage: 0|OrderQuantity: 9|LeadRN: 8|DaysTillOrderArrive: 2
+
+Day: 11|InventoryBegin: 2|Demand-RN: 38|Demand: 2|InventoryEnd: 0|Shortage: 0|OrderQuantity: -|LeadRN: -|DaysTillOrderArrive: 1
+
+Day: 12|InventoryBegin: 0|Demand-RN: 57|Demand: 2|InventoryEnd: 0|Shortage: 2|OrderQuantity: -|LeadRN: -|DaysTillOrderArrive: 0
+
+Day: 13|InventoryBegin: 9|Demand-RN: 52|Demand: 2|InventoryEnd: 7|Shortage: 0|OrderQuantity: -|LeadRN: -|DaysTillOrderArrive: -
+
+Day: 14|InventoryBegin: 7|Demand-RN: 42|Demand: 2|InventoryEnd: 5|Shortage: 0|OrderQuantity: -|LeadRN: -|DaysTillOrderArrive: -
+
+Day: 15|InventoryBegin: 5|Demand-RN: 69|Demand: 2|InventoryEnd: 3|Shortage: 0|OrderQuantity: 8|LeadRN: 4|DaysTillOrderArrive: 1
+
