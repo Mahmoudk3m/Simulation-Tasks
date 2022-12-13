@@ -1,0 +1,42 @@
+Enter number of iat times
+Enter iat time in minute and its probabilty Enter number of able times
+Enter able time in minute and its probabilty 
+
+CustomerNumber: 1|IAT-RN: 26|Clock: 0|ST-RN: 74|Server-ST-Begin: 0|Server-ST: 4|Able-ST-End: 4|QueueingTime: 0|TimeSpent: 4|ServerIdle: 0|
+
+CustomerNumber: 2|IAT-RN: 28|Clock: 2|ST-RN: 26|Server-ST-Begin: 4|Server-ST: 2|Able-ST-End: 6|QueueingTime: 2|TimeSpent: 4|ServerIdle: 0|
+
+CustomerNumber: 3|IAT-RN: 15|Clock: 3|ST-RN: 8|Server-ST-Begin: 6|Server-ST: 2|Able-ST-End: 8|QueueingTime: 3|TimeSpent: 5|ServerIdle: 0|
+
+CustomerNumber: 4|IAT-RN: 50|Clock: 5|ST-RN: 23|Server-ST-Begin: 8|Server-ST: 2|Able-ST-End: 10|QueueingTime: 3|TimeSpent: 5|ServerIdle: 0|
+
+CustomerNumber: 5|IAT-RN: 76|Clock: 8|ST-RN: 71|Server-ST-Begin: 10|Server-ST: 4|Able-ST-End: 14|QueueingTime: 2|TimeSpent: 6|ServerIdle: 0|
+
+CustomerNumber: 6|IAT-RN: 89|Clock: 12|ST-RN: 50|Server-ST-Begin: 14|Server-ST: 3|Able-ST-End: 17|QueueingTime: 2|TimeSpent: 5|ServerIdle: 0|
+
+CustomerNumber: 7|IAT-RN: 91|Clock: 16|ST-RN: 55|Server-ST-Begin: 17|Server-ST: 3|Able-ST-End: 20|QueueingTime: 1|TimeSpent: 4|ServerIdle: 0|
+
+CustomerNumber: 8|IAT-RN: 66|Clock: 19|ST-RN: 14|Server-ST-Begin: 20|Server-ST: 2|Able-ST-End: 22|QueueingTime: 1|TimeSpent: 3|ServerIdle: 0|
+
+CustomerNumber: 9|IAT-RN: 8|Clock: 20|ST-RN: 91|Server-ST-Begin: 22|Server-ST: 5|Able-ST-End: 27|QueueingTime: 2|TimeSpent: 7|ServerIdle: 0|
+
+CustomerNumber: 10|IAT-RN: 6|Clock: 21|ST-RN: 32|Server-ST-Begin: 27|Server-ST: 3|Able-ST-End: 30|QueueingTime: 6|TimeSpent: 9|ServerIdle: 0|
+
+CustomerNumber: 11|IAT-RN: 18|Clock: 22|ST-RN: 74|Server-ST-Begin: 30|Server-ST: 4|Able-ST-End: 34|QueueingTime: 8|TimeSpent: 12|ServerIdle: 0|
+
+CustomerNumber: 12|IAT-RN: 84|Clock: 25|ST-RN: 80|Server-ST-Begin: 34|Server-ST: 4|Able-ST-End: 38|QueueingTime: 9|TimeSpent: 13|ServerIdle: 0|
+
+CustomerNumber: 13|IAT-RN: 61|Clock: 27|ST-RN: 89|Server-ST-Begin: 38|Server-ST: 5|Able-ST-End: 43|QueueingTime: 11|TimeSpent: 16|ServerIdle: 0|
+
+CustomerNumber: 14|IAT-RN: 72|Clock: 30|ST-RN: 17|Server-ST-Begin: 43|Server-ST: 2|Able-ST-End: 45|QueueingTime: 13|TimeSpent: 15|ServerIdle: 0|
+
+CustomerNumber: 15|IAT-RN: 3|Clock: 31|ST-RN: 87|Server-ST-Begin: 45|Server-ST: 5|Able-ST-End: 50|QueueingTime: 14|TimeSpent: 19|ServerIdle: 0|
+
+CustomerNumber: 16|IAT-RN: 67|Clock: 34|ST-RN: 1|Server-ST-Begin: 50|Server-ST: 2|Able-ST-End: 52|QueueingTime: 16|TimeSpent: 18|ServerIdle: 0|
+
+CustomerNumber: 17|IAT-RN: 60|Clock: 36|ST-RN: 68|Server-ST-Begin: 52|Server-ST: 4|Able-ST-End: 56|QueueingTime: 16|TimeSpent: 20|ServerIdle: 0|
+
+CustomerNumber: 18|IAT-RN: 20|Clock: 37|ST-RN: 64|Server-ST-Begin: 56|Server-ST: 4|Able-ST-End: 60|QueueingTime: 19|TimeSpent: 23|ServerIdle: 0|
+
+CustomerNumber: 19|IAT-RN: 7|Clock: 38|ST-RN: 68|Server-ST-Begin: 60|Server-ST: 4|Able-ST-End: 64|QueueingTime: 22|TimeSpent: 26|ServerIdle: 0|
+
