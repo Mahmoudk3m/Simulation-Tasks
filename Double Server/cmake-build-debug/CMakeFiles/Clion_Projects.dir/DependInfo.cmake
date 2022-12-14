@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/Coding Related/C++_Projs/Simulation/SimulationAssingment/main.cpp" "D:/Coding Related/C++_Projs/Simulation/SimulationAssingment/cmake-build-debug/CMakeFiles/Clion_Projects.dir/main.cpp.obj"
+  "E:/Coding Related/C++_Projs/Simulation-Tasks/Double Server/main.cpp" "E:/Coding Related/C++_Projs/Simulation-Tasks/Double Server/cmake-build-debug/CMakeFiles/Clion_Projects.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
