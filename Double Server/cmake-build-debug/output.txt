@@ -3,62 +3,51 @@ Enter iat time in minute and its probabilty Enter number of able times
 Enter able time in minute and its probabilty Enter number of baker times
 Enter baker time in minute and its probabilty 
 
-CustomerNumber: 1|IAT-RN: 40|Clock: 0|ST-RN: 85|Able-ST-Begin: -|Able-ST: -|Able-ST-End: -|Baker-ST-Begin: 0|Baker-ST: 6|Baker-ST-End: 6|QueueingTime: 0|TimeSpent: 6|AbleIdle: -|BakerIdle: 0|
+CustomerNumber: 1|IAT-RN: 32|Clock: 0|ST-RN: 50|Able-ST-Begin: -|Able-ST: -|Able-ST-End: -|Baker-ST-Begin: 0|Baker-ST: 4|Baker-ST-End: 4|QueueingTime: 0|TimeSpent: 4|AbleIdle: -|BakerIdle: 0|
 
-CustomerNumber: 2|IAT-RN: 57|Clock: 2|ST-RN: 81|Able-ST-Begin: 2|Able-ST: 4|Able-ST-End: 6|Baker-ST-Begin: -|Baker-ST: -|Baker-ST-End: -|QueueingTime: 0|TimeSpent: 4|AbleIdle: 2|BakerIdle: -|
+CustomerNumber: 2|IAT-RN: 14|Clock: 1|ST-RN: 27|Able-ST-Begin: 1|Able-ST: 2|Able-ST-End: 3|Baker-ST-Begin: -|Baker-ST: -|Baker-ST-End: -|QueueingTime: 0|TimeSpent: 2|AbleIdle: 1|BakerIdle: -|
 
-CustomerNumber: 3|IAT-RN: 70|Clock: 5|ST-RN: 21|Able-ST-Begin: -|Able-ST: -|Able-ST-End: -|Baker-ST-Begin: 6|Baker-ST: 3|Baker-ST-End: 9|QueueingTime: 1|TimeSpent: 4|AbleIdle: -|BakerIdle: 0|
+CustomerNumber: 3|IAT-RN: 86|Clock: 5|ST-RN: 0|Able-ST-Begin: -|Able-ST: -|Able-ST-End: -|Baker-ST-Begin: 5|Baker-ST: 3|Baker-ST-End: 8|QueueingTime: 0|TimeSpent: 3|AbleIdle: -|BakerIdle: 1|
 
-CustomerNumber: 4|IAT-RN: 56|Clock: 7|ST-RN: 43|Able-ST-Begin: 7|Able-ST: 3|Able-ST-End: 10|Baker-ST-Begin: -|Baker-ST: -|Baker-ST-End: -|QueueingTime: 0|TimeSpent: 3|AbleIdle: 1|BakerIdle: -|
+CustomerNumber: 4|IAT-RN: 55|Clock: 7|ST-RN: 16|Able-ST-Begin: 7|Able-ST: 2|Able-ST-End: 9|Baker-ST-Begin: -|Baker-ST: -|Baker-ST-End: -|QueueingTime: 0|TimeSpent: 2|AbleIdle: 4|BakerIdle: -|
 
-CustomerNumber: 5|IAT-RN: 14|Clock: 8|ST-RN: 83|Able-ST-Begin: -|Able-ST: -|Able-ST-End: -|Baker-ST-Begin: 9|Baker-ST: 6|Baker-ST-End: 15|QueueingTime: 1|TimeSpent: 7|AbleIdle: -|BakerIdle: 0|
+CustomerNumber: 5|IAT-RN: 24|Clock: 8|ST-RN: 39|Able-ST-Begin: -|Able-ST: -|Able-ST-End: -|Baker-ST-Begin: 8|Baker-ST: 4|Baker-ST-End: 12|QueueingTime: 0|TimeSpent: 4|AbleIdle: -|BakerIdle: 0|
 
-CustomerNumber: 6|IAT-RN: 22|Clock: 9|ST-RN: 8|Able-ST-Begin: 10|Able-ST: 2|Able-ST-End: 12|Baker-ST-Begin: -|Baker-ST: -|Baker-ST-End: -|QueueingTime: 1|TimeSpent: 3|AbleIdle: 0|BakerIdle: -|
+CustomerNumber: 6|IAT-RN: 0|Clock: 9|ST-RN: 8|Able-ST-Begin: 9|Able-ST: 2|Able-ST-End: 11|Baker-ST-Begin: -|Baker-ST: -|Baker-ST-End: -|QueueingTime: 0|TimeSpent: 2|AbleIdle: 0|BakerIdle: -|
 
-CustomerNumber: 7|IAT-RN: 12|Clock: 10|ST-RN: 76|Able-ST-Begin: 12|Able-ST: 4|Able-ST-End: 16|Baker-ST-Begin: -|Baker-ST: -|Baker-ST-End: -|QueueingTime: 2|TimeSpent: 6|AbleIdle: 0|BakerIdle: -|
+CustomerNumber: 7|IAT-RN: 87|Clock: 13|ST-RN: 4|Able-ST-Begin: -|Able-ST: -|Able-ST-End: -|Baker-ST-Begin: 13|Baker-ST: 3|Baker-ST-End: 16|QueueingTime: 0|TimeSpent: 3|AbleIdle: -|BakerIdle: 1|
 
-CustomerNumber: 8|IAT-RN: 49|Clock: 12|ST-RN: 18|Able-ST-Begin: -|Able-ST: -|Able-ST-End: -|Baker-ST-Begin: 15|Baker-ST: 3|Baker-ST-End: 18|QueueingTime: 3|TimeSpent: 6|AbleIdle: -|BakerIdle: 0|
+CustomerNumber: 8|IAT-RN: 26|Clock: 15|ST-RN: 96|Able-ST-Begin: 15|Able-ST: 5|Able-ST-End: 20|Baker-ST-Begin: -|Baker-ST: -|Baker-ST-End: -|QueueingTime: 0|TimeSpent: 5|AbleIdle: 4|BakerIdle: -|
 
-CustomerNumber: 9|IAT-RN: 97|Clock: 16|ST-RN: 88|Able-ST-Begin: 16|Able-ST: 5|Able-ST-End: 21|Baker-ST-Begin: -|Baker-ST: -|Baker-ST-End: -|QueueingTime: 0|TimeSpent: 5|AbleIdle: 0|BakerIdle: -|
+CustomerNumber: 9|IAT-RN: 85|Clock: 19|ST-RN: 67|Able-ST-Begin: -|Able-ST: -|Able-ST-End: -|Baker-ST-Begin: 19|Baker-ST: 5|Baker-ST-End: 24|QueueingTime: 0|TimeSpent: 5|AbleIdle: -|BakerIdle: 3|
 
-CustomerNumber: 10|IAT-RN: 79|Clock: 19|ST-RN: 66|Able-ST-Begin: -|Able-ST: -|Able-ST-End: -|Baker-ST-Begin: 19|Baker-ST: 5|Baker-ST-End: 24|QueueingTime: 0|TimeSpent: 5|AbleIdle: -|BakerIdle: 1|
+CustomerNumber: 10|IAT-RN: 20|Clock: 20|ST-RN: 53|Able-ST-Begin: 20|Able-ST: 3|Able-ST-End: 23|Baker-ST-Begin: -|Baker-ST: -|Baker-ST-End: -|QueueingTime: 0|TimeSpent: 3|AbleIdle: 0|BakerIdle: -|
 
-CustomerNumber: 11|IAT-RN: 21|Clock: 20|ST-RN: 72|Able-ST-Begin: 21|Able-ST: 4|Able-ST-End: 25|Baker-ST-Begin: -|Baker-ST: -|Baker-ST-End: -|QueueingTime: 1|TimeSpent: 5|AbleIdle: 0|BakerIdle: -|
+CustomerNumber: 11|IAT-RN: 15|Clock: 21|ST-RN: 0|Able-ST-Begin: 23|Able-ST: 2|Able-ST-End: 25|Baker-ST-Begin: -|Baker-ST: -|Baker-ST-End: -|QueueingTime: 2|TimeSpent: 4|AbleIdle: 0|BakerIdle: -|
 
-CustomerNumber: 12|IAT-RN: 20|Clock: 21|ST-RN: 77|Able-ST-Begin: -|Able-ST: -|Able-ST-End: -|Baker-ST-Begin: 24|Baker-ST: 5|Baker-ST-End: 29|QueueingTime: 3|TimeSpent: 8|AbleIdle: -|BakerIdle: 0|
+CustomerNumber: 12|IAT-RN: 60|Clock: 23|ST-RN: 7|Able-ST-Begin: -|Able-ST: -|Able-ST-End: -|Baker-ST-Begin: 24|Baker-ST: 3|Baker-ST-End: 27|QueueingTime: 1|TimeSpent: 4|AbleIdle: -|BakerIdle: 0|
 
-CustomerNumber: 13|IAT-RN: 87|Clock: 25|ST-RN: 96|Able-ST-Begin: 25|Able-ST: 5|Able-ST-End: 30|Baker-ST-Begin: -|Baker-ST: -|Baker-ST-End: -|QueueingTime: 0|TimeSpent: 5|AbleIdle: 0|BakerIdle: -|
+CustomerNumber: 13|IAT-RN: 29|Clock: 25|ST-RN: 67|Able-ST-Begin: 25|Able-ST: 4|Able-ST-End: 29|Baker-ST-Begin: -|Baker-ST: -|Baker-ST-End: -|QueueingTime: 0|TimeSpent: 4|AbleIdle: 0|BakerIdle: -|
 
-CustomerNumber: 14|IAT-RN: 77|Clock: 28|ST-RN: 47|Able-ST-Begin: -|Able-ST: -|Able-ST-End: -|Baker-ST-Begin: 29|Baker-ST: 4|Baker-ST-End: 33|QueueingTime: 1|TimeSpent: 5|AbleIdle: -|BakerIdle: 0|
+CustomerNumber: 14|IAT-RN: 98|Clock: 29|ST-RN: 28|Able-ST-Begin: -|Able-ST: -|Able-ST-End: -|Baker-ST-Begin: 29|Baker-ST: 3|Baker-ST-End: 32|QueueingTime: 0|TimeSpent: 3|AbleIdle: -|BakerIdle: 2|
 
-CustomerNumber: 15|IAT-RN: 49|Clock: 30|ST-RN: 78|Able-ST-Begin: 30|Able-ST: 4|Able-ST-End: 34|Baker-ST-Begin: -|Baker-ST: -|Baker-ST-End: -|QueueingTime: 0|TimeSpent: 4|AbleIdle: 0|BakerIdle: -|
+CustomerNumber: 15|IAT-RN: 93|Clock: 33|ST-RN: 50|Able-ST-Begin: -|Able-ST: -|Able-ST-End: -|Baker-ST-Begin: 33|Baker-ST: 4|Baker-ST-End: 37|QueueingTime: 0|TimeSpent: 4|AbleIdle: -|BakerIdle: 1|
 
-CustomerNumber: 16|IAT-RN: 71|Clock: 33|ST-RN: 97|Able-ST-Begin: -|Able-ST: -|Able-ST-End: -|Baker-ST-Begin: 33|Baker-ST: 6|Baker-ST-End: 39|QueueingTime: 0|TimeSpent: 6|AbleIdle: -|BakerIdle: 0|
+CustomerNumber: 16|IAT-RN: 86|Clock: 37|ST-RN: 66|Able-ST-Begin: -|Able-ST: -|Able-ST-End: -|Baker-ST-Begin: 37|Baker-ST: 5|Baker-ST-End: 42|QueueingTime: 0|TimeSpent: 5|AbleIdle: -|BakerIdle: 0|
 
-CustomerNumber: 17|IAT-RN: 34|Clock: 35|ST-RN: 64|Able-ST-Begin: 35|Able-ST: 4|Able-ST-End: 39|Baker-ST-Begin: -|Baker-ST: -|Baker-ST-End: -|QueueingTime: 0|TimeSpent: 4|AbleIdle: 1|BakerIdle: -|
+CustomerNumber: 17|IAT-RN: 26|Clock: 39|ST-RN: 82|Able-ST-Begin: 39|Able-ST: 5|Able-ST-End: 44|Baker-ST-Begin: -|Baker-ST: -|Baker-ST-End: -|QueueingTime: 0|TimeSpent: 5|AbleIdle: 10|BakerIdle: -|
 
-CustomerNumber: 18|IAT-RN: 34|Clock: 37|ST-RN: 75|Able-ST-Begin: -|Able-ST: -|Able-ST-End: -|Baker-ST-Begin: 39|Baker-ST: 5|Baker-ST-End: 44|QueueingTime: 2|TimeSpent: 7|AbleIdle: -|BakerIdle: 0|
+CustomerNumber: 18|IAT-RN: 81|Clock: 42|ST-RN: 30|Able-ST-Begin: -|Able-ST: -|Able-ST-End: -|Baker-ST-Begin: 42|Baker-ST: 4|Baker-ST-End: 46|QueueingTime: 0|TimeSpent: 4|AbleIdle: -|BakerIdle: 0|
 
-CustomerNumber: 19|IAT-RN: 45|Clock: 39|ST-RN: 94|Able-ST-Begin: 39|Able-ST: 5|Able-ST-End: 44|Baker-ST-Begin: -|Baker-ST: -|Baker-ST-End: -|QueueingTime: 0|TimeSpent: 5|AbleIdle: 0|BakerIdle: -|
+CustomerNumber: 19|IAT-RN: 89|Clock: 46|ST-RN: 77|Able-ST-Begin: -|Able-ST: -|Able-ST-End: -|Baker-ST-Begin: 46|Baker-ST: 5|Baker-ST-End: 51|QueueingTime: 0|TimeSpent: 5|AbleIdle: -|BakerIdle: 0|
 
-CustomerNumber: 20|IAT-RN: 33|Clock: 41|ST-RN: 3|Able-ST-Begin: -|Able-ST: -|Able-ST-End: -|Baker-ST-Begin: 44|Baker-ST: 3|Baker-ST-End: 47|QueueingTime: 3|TimeSpent: 6|AbleIdle: -|BakerIdle: 0|
+CustomerNumber: 20|IAT-RN: 85|Clock: 50|ST-RN: 15|Able-ST-Begin: 50|Able-ST: 2|Able-ST-End: 52|Baker-ST-Begin: -|Baker-ST: -|Baker-ST-End: -|QueueingTime: 0|TimeSpent: 2|AbleIdle: 6|BakerIdle: -|
 
-CustomerNumber: 21|IAT-RN: 72|Clock: 44|ST-RN: 88|Able-ST-Begin: 44|Able-ST: 5|Able-ST-End: 49|Baker-ST-Begin: -|Baker-ST: -|Baker-ST-End: -|QueueingTime: 0|TimeSpent: 5|AbleIdle: 0|BakerIdle: -|
+CustomerNumber: 21|IAT-RN: 77|Clock: 53|ST-RN: 48|Able-ST-Begin: -|Able-ST: -|Able-ST-End: -|Baker-ST-Begin: 53|Baker-ST: 4|Baker-ST-End: 57|QueueingTime: 0|TimeSpent: 4|AbleIdle: -|BakerIdle: 2|
 
-CustomerNumber: 22|IAT-RN: 14|Clock: 45|ST-RN: 25|Able-ST-Begin: -|Able-ST: -|Able-ST-End: -|Baker-ST-Begin: 47|Baker-ST: 3|Baker-ST-End: 50|QueueingTime: 2|TimeSpent: 5|AbleIdle: -|BakerIdle: 0|
+CustomerNumber: 22|IAT-RN: 40|Clock: 55|ST-RN: 50|Able-ST-Begin: 55|Able-ST: 3|Able-ST-End: 58|Baker-ST-Begin: -|Baker-ST: -|Baker-ST-End: -|QueueingTime: 0|TimeSpent: 3|AbleIdle: 3|BakerIdle: -|
 
-CustomerNumber: 23|IAT-RN: 20|Clock: 46|ST-RN: 46|Able-ST-Begin: 49|Able-ST: 3|Able-ST-End: 52|Baker-ST-Begin: -|Baker-ST: -|Baker-ST-End: -|QueueingTime: 3|TimeSpent: 6|AbleIdle: 0|BakerIdle: -|
+CustomerNumber: 23|IAT-RN: 79|Clock: 58|ST-RN: 89|Able-ST-Begin: -|Able-ST: -|Able-ST-End: -|Baker-ST-Begin: 58|Baker-ST: 6|Baker-ST-End: 64|QueueingTime: 0|TimeSpent: 6|AbleIdle: -|BakerIdle: 1|
 
-CustomerNumber: 24|IAT-RN: 3|Clock: 47|ST-RN: 19|Able-ST-Begin: -|Able-ST: -|Able-ST-End: -|Baker-ST-Begin: 50|Baker-ST: 3|Baker-ST-End: 53|QueueingTime: 3|TimeSpent: 6|AbleIdle: -|BakerIdle: 0|
+CustomerNumber: 24|IAT-RN: 10|Clock: 59|ST-RN: 92|Able-ST-Begin: 59|Able-ST: 5|Able-ST-End: 64|Baker-ST-Begin: -|Baker-ST: -|Baker-ST-End: -|QueueingTime: 0|TimeSpent: 5|AbleIdle: 1|BakerIdle: -|
 
-CustomerNumber: 25|IAT-RN: 6|Clock: 48|ST-RN: 1|Able-ST-Begin: 52|Able-ST: 2|Able-ST-End: 54|Baker-ST-Begin: -|Baker-ST: -|Baker-ST-End: -|QueueingTime: 4|TimeSpent: 6|AbleIdle: 0|BakerIdle: -|
-
-CustomerNumber: 26|IAT-RN: 32|Clock: 0|ST-RN: 40|Able-ST-Begin: -|Able-ST: -|Able-ST-End: -|Baker-ST-Begin: 53|Baker-ST: 4|Baker-ST-End: 57|QueueingTime: 53|TimeSpent: 57|AbleIdle: -|BakerIdle: 0|
-
-CustomerNumber: 27|IAT-RN: 51|Clock: -1537169352|ST-RN: 65|Able-ST-Begin: 54|Able-ST: 4|Able-ST-End: 58|Baker-ST-Begin: -|Baker-ST: -|Baker-ST-End: -|QueueingTime: 1537169406|TimeSpent: 1537169410|AbleIdle: 0|BakerIdle: -|
-
-CustomerNumber: 28|IAT-RN: 1|Clock: 32765|ST-RN: 16|Able-ST-Begin: -|Able-ST: -|Able-ST-End: -|Baker-ST-Begin: 32765|Baker-ST: 3|Baker-ST-End: 32768|QueueingTime: 0|TimeSpent: 3|AbleIdle: -|BakerIdle: 32708|
-
-CustomerNumber: 29|IAT-RN: 44|Clock: 0|ST-RN: 15|Able-ST-Begin: 58|Able-ST: 2|Able-ST-End: 60|Baker-ST-Begin: -|Baker-ST: -|Baker-ST-End: -|QueueingTime: 58|TimeSpent: 60|AbleIdle: 0|BakerIdle: -|
-
-CustomerNumber: 30|IAT-RN: 91|Clock: 0|ST-RN: 81|Able-ST-Begin: 60|Able-ST: 4|Able-ST-End: 64|Baker-ST-Begin: -|Baker-ST: -|Baker-ST-End: -|QueueingTime: 60|TimeSpent: 64|AbleIdle: 0|BakerIdle: -|
